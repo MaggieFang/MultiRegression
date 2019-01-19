@@ -1,0 +1,325 @@
+
+> summary(x1)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  37.50   79.09   94.76   93.95  108.20  145.58 
+
+> summary(x1)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  37.50   79.09   94.76   93.95  108.20  145.58 
+
+> summary(x2)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  123.3   168.7   181.1   182.8   196.1   244.5 
+
+> summary(x3)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  199.5   236.9   250.6   251.7   265.8   319.5 
+
+> summary(x4)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  230.8   278.0   293.2   293.5   307.3   358.0 
+
+> summary(x5)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  355.0   414.9   428.4   428.7   443.6   478.9 
+
+
+> summary(x1)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  37.50   79.09   94.76   93.95  108.20  145.58 
+
+> sink()
+
+> summary(x2)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  123.3   168.7   181.1   182.8   196.1   244.5 
+
+> sink()
+
+> summary(x3)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  199.5   236.9   250.6   251.7   265.8   319.5 
+
+> sink()
+
+> summary(x4)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  230.8   278.0   293.2   293.5   307.3   358.0 
+
+> sink()
+
+> summary(x5)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  355.0   414.9   428.4   428.7   443.6   478.9 
+
+> sink()
+
+> summary(x1)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  37.50   79.09   94.76   93.95  108.20  145.58 
+
+> sink()
+
+> summary(x2)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  123.3   168.7   181.1   182.8   196.1   244.5 
+
+> sink()
+
+> summary(x3)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  199.5   236.9   250.6   251.7   265.8   319.5 
+
+> sink()
+
+> summary(x4)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  230.8   278.0   293.2   293.5   307.3   358.0 
+
+> sink()
+
+> summary(x5)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  355.0   414.9   428.4   428.7   443.6   478.9 
+
+> sink()
+
+> summary(x1)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  37.50   79.09   94.76   93.95  108.20  145.58 
+
+> sink()
+
+> summary(x2)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  123.3   168.7   181.1   182.8   196.1   244.5 
+
+> sink()
+
+> summary(x3)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  199.5   236.9   250.6   251.7   265.8   319.5 
+
+> sink()
+
+> summary(x4)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  230.8   278.0   293.2   293.5   307.3   358.0 
+
+> sink()
+
+> summary(x5)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  355.0   414.9   428.4   428.7   443.6   478.9 
+
+> sink()
+
+> summary(x1)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  37.50   79.09   94.76   93.95  108.20  145.58 
+
+> sink()
+
+> summary(x2)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  123.3   168.7   181.1   182.8   196.1   244.5 
+
+> sink()
+
+> summary(x3)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  199.5   236.9   250.6   251.7   265.8   319.5 
+
+> sink()
+
+> summary(x4)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  230.8   278.0   293.2   293.5   307.3   358.0 
+
+> sink()
+
+> summary(x5)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  355.0   414.9   428.4   428.7   443.6   478.9 
+
+> sink()
+
+> summary(x1)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  37.50   79.09   94.76   93.95  108.20  145.58 
+
+> sink()
+
+> summary(x2)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  123.3   168.7   181.1   182.8   196.1   244.5 
+
+> sink()
+
+> summary(x3)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  199.5   236.9   250.6   251.7   265.8   319.5 
+
+> sink()
+
+> summary(x4)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  230.8   278.0   293.2   293.5   307.3   358.0 
+
+> sink()
+
+> summary(x5)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  355.0   414.9   428.4   428.7   443.6   478.9 
+
+> sink()
+
+> summary(x1)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  37.50   79.09   94.76   93.95  108.20  145.58 
+
+> sink()
+
+> summary(x2)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  123.3   168.7   181.1   182.8   196.1   244.5 
+
+> sink()
+
+> summary(x3)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  199.5   236.9   250.6   251.7   265.8   319.5 
+
+> sink()
+
+> summary(x4)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  230.8   278.0   293.2   293.5   307.3   358.0 
+
+> sink()
+
+> summary(x5)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  355.0   414.9   428.4   428.7   443.6   478.9 
+
+> sink()
+
+> summary(x1)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  37.50   79.09   94.76   93.95  108.20  145.58 
+
+> sink()
+
+> summary(x2)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  123.3   168.7   181.1   182.8   196.1   244.5 
+
+> sink()
+
+> summary(x3)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  199.5   236.9   250.6   251.7   265.8   319.5 
+
+> sink()
+
+> summary(x4)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  230.8   278.0   293.2   293.5   307.3   358.0 
+
+> sink()
+
+> summary(x5)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  355.0   414.9   428.4   428.7   443.6   478.9 
+
+> sink()
+
+> summary(x1)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  37.50   79.09   94.76   93.95  108.20  145.58 
+
+> sink()
+
+> summary(x2)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  123.3   168.7   181.1   182.8   196.1   244.5 
+
+> sink()
+
+> summary(x3)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  199.5   236.9   250.6   251.7   265.8   319.5 
+
+> sink()
+
+> summary(x4)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  230.8   278.0   293.2   293.5   307.3   358.0 
+
+> sink()
+
+> summary(x5)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  355.0   414.9   428.4   428.7   443.6   478.9 
+
+> sink()
+
+> summary(x1)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  37.50   79.09   94.76   93.95  108.20  145.58 
+
+> sink()
+
+> summary(x2)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  123.3   168.7   181.1   182.8   196.1   244.5 
+
+> sink()
+
+> summary(x3)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  199.5   236.9   250.6   251.7   265.8   319.5 
+
+> sink()
+
+> summary(x4)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  230.8   278.0   293.2   293.5   307.3   358.0 
+
+> sink()
+
+> summary(x5)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  355.0   414.9   428.4   428.7   443.6   478.9 
+
+> sink()
+
+> summary(x1)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  37.50   79.09   94.76   93.95  108.20  145.58 
+
+> sink()
+
+> summary(x2)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  123.3   168.7   181.1   182.8   196.1   244.5 
+
+> sink()
+
+> summary(x3)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  199.5   236.9   250.6   251.7   265.8   319.5 
+
+> sink()
+
+> summary(x4)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  230.8   278.0   293.2   293.5   307.3   358.0 
+
+> sink()
+
+> summary(x5)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  355.0   414.9   428.4   428.7   443.6   478.9 
+
+> sink()
